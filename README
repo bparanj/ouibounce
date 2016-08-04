@@ -1,0 +1,1 @@
+This example project upgrades the Ouibounce  <a href='http://carlsednaoui.github.io/ouibounce/'> interactive demo </a> to use jQuery 3.1 instead of jQuery 2.1. All the files required are self-contained to be used as a starter app for experimenting with Ouibounce API. You can download this starter app from <a href='https://github.com/bparanj/ouibounce'>Ouibounce Starter App
